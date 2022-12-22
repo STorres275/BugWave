@@ -15,6 +15,9 @@ You need to have the Java Runtime Environment (JRE) installed in your PC. In cas
 
 If you already have it, just run the BugWave.jar file located in the main folder.
 
+## Project Status
+Firstly we wanted to make the game a little bit more complex with pick-up items and more levels, but the deadline didn´t allow us. Having said that, the game is considered finished, but with room for improvement.
+
 ## Acknowledgments 
 I want to thank all the team members for having contributed not only with technical knowledge, but also with a spirit that made the development of this game immensely fun.
 
@@ -25,6 +28,3 @@ The development team:
 - Sérgio Torres.   
 - Rodrigo Silva.   
 - Ruben Maurícion.   
-
-## Project Status
-Firstly we wanted to make the game a little bit more complex with pick-up items and more levels, but the deadline didn´t allow us. Having said that, the game is considered finished, but with room for improvement.
