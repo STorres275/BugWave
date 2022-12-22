@@ -19,12 +19,12 @@ If you already have it, just run the BugWave.jar file located in the main folder
 I want to thank all the team members for having contributed not only with technical knowledge, but also with a spirit that made the development of this game immensely fun.
 
 The development team:   
--Bruno Rodrigues.   
--João Araújo.   
--Raquel Nogueira.   
--Sérgio Torres.   
--Rodrigo Silva.   
--Ruben Maurícion.   
+- Bruno Rodrigues.   
+- João Araújo.   
+- Raquel Nogueira.   
+- Sérgio Torres.   
+- Rodrigo Silva.   
+- Ruben Maurícion.   
 
 ## Project Status
 Firstly we wanted to make the game a little bit more complex with pick-up items and more levels, but the deadline didn´t allow us. Having said that, the game is considered finished, but with room for improvement.
