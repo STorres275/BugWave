@@ -1,6 +1,6 @@
 # BugWave
 Obstacle avoiding game developed in Java during the <A/C> Bootcamp "GamesWeek".     
-This project was developed by a team of 6 in post-work hours during the span of a week. It allowed us to apply our knowledge of java and OOP that we had been taught so far.
+This project was developed by a team of 6 in post-work hours during the span of a week. It allowed us to apply our knowledge of Java, OOP and Git that we had been taught so far.
 
 ## Description
 Oh no! As he was developing his first app, the code cadet (you!) came across his first bugs! Do you think you can help him avoid the bugs and finish his app on his journey to become a master coder?      
