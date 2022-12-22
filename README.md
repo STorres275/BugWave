@@ -18,7 +18,7 @@ If you already have it, just run the BugWave.jar file located in the main folder
 ## Acknowledgments 
 I want to thank all the team members for having contributed not only with technical knowledge, but also with a spirit that made the development of this game immensely fun.
 
-The development team:
+The development team:   
 -Bruno Rodrigues.   
 -João Araújo.   
 -Raquel Nogueira   
