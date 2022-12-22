@@ -21,7 +21,7 @@ I want to thank all the team members for having contributed not only with techni
 The development team:   
 -Bruno Rodrigues.   
 -João Araújo.   
--Raquel Nogueira   
+-Raquel Nogueira.   
 -Sérgio Torres.   
 -Rodrigo Silva.   
 -Ruben Maurícion.   
