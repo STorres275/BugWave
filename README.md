@@ -1,5 +1,5 @@
 # BugWave
-Obstacle avoiding game developed in Java during the <A/C> Bootcamp "GamesWeek".     
+Obstacle avoiding game developed in Java with a simple graphics library during the <A/C> Bootcamp "GamesWeek".     
 This project was developed by a team of 6 in post-work hours during the span of a week. It allowed us to apply our knowledge of Java, OOP and Git that we had been taught so far.
 
 ## Description
